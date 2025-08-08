@@ -1,1 +1,4 @@
 # Todo_list
+in this Todo list to add remove the task from using add the delete button.technologies are html,css, JavaScript and technologies are used to create the Todo list page.in use html create just structure and css used for styling of the page and mainly used in javascript to give the Event listeners that is used for adding and removenthe tasks mainly created seperate div container for the every task and if once save the tasks if you reload the page that will not removed this purpose using to localstorage set and get items in the javascript.
+Tools: Vscode, chrome/edge.
+in above tools to used for creation 
